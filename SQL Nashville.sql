@@ -1,7 +1,7 @@
 /*
 Cleaning Data in SQL Queries
 */
-
+-- Have used PostgreSQL 15 server and pgAdmin 4
 
 Select *
 From "NashvilleHousing"
